@@ -31,19 +31,21 @@
 echo lengthOfLongestSubstring("abcdabcd");
 
 // moving window
-function lengthOfLongestSubstring($string) {
+function lengthOfLongestSubstring($string)
+{
 
-    if($string === "")
+    if ($string === "")
         return 0;
 
-    $outer = 0; $inner = 0;
+    $outer = 0;
+    $inner = 0;
     $max = 1;
     $size = strlen($string);
     $unique = [];
 
-    while($inner < $size && $outer < $size) {
+    while ($inner < $size && $outer < $size) {
 
-        if(!isset($unique[$string[$inner]])) {
+        if (!isset($unique[$string[$inner]])) {
             $unique[$string[$inner]] = $string[$inner];
             $max = max($max, ($inner - $outer) + 1);
             $inner += 1;
