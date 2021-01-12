@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3580c63b-5c18-4c1f-b215-0d0506d3fef7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/BruteForce.php" beforeDir="false" afterPath="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/BruteForce.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,23 +35,14 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="PHP Script.OptimizedSlidindWindow.php">
+  <component name="RunManager" selected="PHP Script.BruteForce.php">
     <configuration type="JavascriptDebugType" uri="http://localhost:63342/LeetCode/LongestSubstrWithoutRepeatingChars/BruteForce.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="new.php" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/LeetCode/LongestSubstrWithoutRepeatingChars/new.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="LongestSubstrWithoutRepeatingChars" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner directory="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BruteForce.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/BruteForce.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.4" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
+    <configuration name="BruteForce.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LongestPalindromicSubstring/PHP/BruteForce.php">
       <method v="2" />
     </configuration>
     <configuration name="OptimizedSlidindWindow.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/OptimizedSlidindWindow.php">
@@ -72,16 +61,19 @@
       </CommandLine>
       <method v="2" />
     </configuration>
+    <configuration name="Solution.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MedianOfTwoSortedArrays/PHP solution/Solution.php">
+      <method v="2" />
+    </configuration>
     <configuration name="new.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/new.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.BruteForce.php" />
+        <item itemvalue="PHP Script.Solution.php" />
         <item itemvalue="PHP Script.OptimizedSlidindWindow.php" />
         <item itemvalue="PHP Script.SlindingWindow.php" />
         <item itemvalue="PHP Script.new.php" />
-        <item itemvalue="PHPUnit.LongestSubstrWithoutRepeatingChars" />
-        <item itemvalue="PHP Script.BruteForce.php" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +86,8 @@
       <option name="presentableId" value="Default" />
       <updated>1610310795385</updated>
       <workItem from="1610310796500" duration="5207000" />
-      <workItem from="1610358224546" duration="580000" />
+      <workItem from="1610358224546" duration="2515000" />
+      <workItem from="1610483279195" duration="3131000" />
     </task>
     <servers />
   </component>
@@ -108,6 +101,11 @@
           <url>file://$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/OptimizedSlidindWindow.php</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/LongestPalindromicSubstring/PHP/BruteForce.php</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
