@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3580c63b-5c18-4c1f-b215-0d0506d3fef7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestPalindromicSubstring/PHP/BruteForce.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/LongestPalindromicSubstring/PHP/BruteForce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/BruteForce.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/LongestSubstrWithoutRepeatingChars/BruteForce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/OptimizedSlidindWindow.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/LongestSubstrWithoutRepeatingChars/OptimizedSlidindWindow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/SlindingWindow.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/LongestSubstrWithoutRepeatingChars/SlindingWindow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MedianOfTwoSortedArrays/PHP solution/Solution.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP/MedianOfTwoSortedArrays/Solution.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,59 +31,61 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="PHP Script.BruteForce.php">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PHP/MedianOfTwoSortedArrays" />
+      <recent name="$PROJECT_DIR$/PHP/ZigZagConversion" />
+      <recent name="$PROJECT_DIR$/PHP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.PalindromeNumber.php">
     <configuration type="JavascriptDebugType" uri="http://localhost:63342/LeetCode/LongestSubstrWithoutRepeatingChars/BruteForce.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="new.php" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/LeetCode/LongestSubstrWithoutRepeatingChars/new.php" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="BruteForce.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LongestPalindromicSubstring/PHP/BruteForce.php">
+    <configuration name="BruteForce.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP/ZigZagConversion/BruteForce.php">
       <method v="2" />
     </configuration>
-    <configuration name="OptimizedSlidindWindow.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/OptimizedSlidindWindow.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.4" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
+    <configuration name="BruteForce.php (2)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP/LongestSubstrWithoutRepeatingChars/BruteForce.php">
       <method v="2" />
     </configuration>
-    <configuration name="SlindingWindow.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/SlindingWindow.php">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.4" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
+    <configuration name="BruteForce.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP/LongestPalindromicSubstring/PHP/BruteForce.php">
       <method v="2" />
     </configuration>
-    <configuration name="Solution.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MedianOfTwoSortedArrays/PHP solution/Solution.php">
+    <configuration name="PalindromeNumber.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP/PalindromeNumber/PalindromeNumber.php">
       <method v="2" />
     </configuration>
-    <configuration name="new.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/new.php">
+    <configuration name="Solution.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP/MedianOfTwoSortedArrays/Solution.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.PalindromeNumber.php" />
+        <item itemvalue="PHP Script.BruteForce.php (2)" />
+        <item itemvalue="PHP Script.BruteForce.php (1)" />
         <item itemvalue="PHP Script.BruteForce.php" />
         <item itemvalue="PHP Script.Solution.php" />
-        <item itemvalue="PHP Script.OptimizedSlidindWindow.php" />
-        <item itemvalue="PHP Script.SlindingWindow.php" />
-        <item itemvalue="PHP Script.new.php" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3580c63b-5c18-4c1f-b215-0d0506d3fef7" name="Default Changelist" comment="" />
@@ -88,6 +96,12 @@
       <workItem from="1610310796500" duration="5207000" />
       <workItem from="1610358224546" duration="2515000" />
       <workItem from="1610483279195" duration="3131000" />
+      <workItem from="1610568568813" duration="579000" />
+      <workItem from="1610703115228" duration="2679000" />
+      <workItem from="1610818171585" duration="782000" />
+      <workItem from="1611003305551" duration="88000" />
+      <workItem from="1611003646948" duration="413000" />
+      <workItem from="1611407086988" duration="6264000" />
     </task>
     <servers />
   </component>
@@ -98,14 +112,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/LongestSubstrWithoutRepeatingChars/OptimizedSlidindWindow.php</url>
+          <url>file://$PROJECT_DIR$/PHP/LongestSubstrWithoutRepeatingChars/OptimizedSlidindWindow.php</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/LongestPalindromicSubstring/PHP/BruteForce.php</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/PHP/PalindromeNumber/PalindromeNumber.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/PHP/PalindromeNumber/PalindromeNumber.php</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

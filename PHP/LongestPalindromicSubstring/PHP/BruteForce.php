@@ -28,9 +28,9 @@ function longestPalindrome($string) {
             $left -= 1;
             $right += 1;
         }
-
     }
     return $maxStr;
 
 }
+
 echo longestPalindrome('cbbd');

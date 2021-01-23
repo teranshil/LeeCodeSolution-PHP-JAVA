@@ -28,12 +28,12 @@
 //    return $max;
 //}
 
-echo lengthOfLongestSubstring("abcdabcd");
+echo lengthOfLongestSubstring("ababcd", 1250);
 
 // moving window
-function lengthOfLongestSubstring($string)
+function lengthOfLongestSubstring($string, $number = 0)
 {
-
+    echo 'length ' . floor(log10(abs($number)) + 1) . PHP_EOL;
     if ($string === "")
         return 0;
 
@@ -42,7 +42,6 @@ function lengthOfLongestSubstring($string)
     $max = 1;
     $size = strlen($string);
     $unique = [];
-
     while ($inner < $size && $outer < $size) {
 
         if (!isset($unique[$string[$inner]])) {

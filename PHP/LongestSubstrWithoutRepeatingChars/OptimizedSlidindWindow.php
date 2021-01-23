@@ -11,7 +11,7 @@ function lengthOfLongestSubstring($string) {
 
         if(isset($unique[$element])) {
 
-            $removeIndex = max($unique[$element], $removeIndex);
+            $removeIndex =$unique[$element];
 
         }
 
